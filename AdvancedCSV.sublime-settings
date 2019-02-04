@@ -4,6 +4,6 @@
   	"*.psv": "|",
   	"*.tsv": "\t"
   },
-  "delimiter": ",",
+  "delimiter": "\t",
   "auto_quote": true
 }
